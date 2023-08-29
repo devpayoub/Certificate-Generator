@@ -1,24 +1,27 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/devpayoub/CV-Generator-Application)
-  ![GitHub stars](https://img.shields.io/github/stars/devpayoub/CV-Generator-Application?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/devpayoub/Certificate-Generator)
+  ![GitHub stars](https://img.shields.io/github/stars/devpayoub/Certificate-Generator?style=social)
   <br />
   <br />
 
   <h2 align="center">Certificate Generator</h2>
 
-  Certificate Generator , <br /> a online app that can help u to generator Udemy and Linkedin Generator .
-  <a href="#"><strong>➥ Live Demo</strong></a>
+  Certificate Generator , <br /> A Online Application That Can Help You To Generator Udemy and Linkedin Generator .
+    <br /><a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### ---Demo Screeshots
+### Udemy Generated Certificate Sample
 
-![Taskbuddy Desktop Demo](./Images/ud.png "Desktop Demo")
-### 
-![Taskbuddy Desktop Demo](./Images/lid.png "Desktop Demo")
+![Taskbuddy Desktop Demo](./Images/ud.jpg "Desktop Demo")
+### ---------------------------------------------------
+### Udemy Generated Certificate Sample
+
+![Taskbuddy Desktop Demo](./Images/lid.jpg "Desktop Demo")
 
 
 ### Run Locally
@@ -28,13 +31,13 @@ To run **Certificate Generator** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/devpayoub/CV-Generator-Application.git
+sudo git clone https://github.com/devpayoub/Certificate-Generator.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/devpayoub/CV-Generator-Application.git
+git clone https://github.com/devpayoub/Certificate-Generator.git
 ```
 
 ### Contact
