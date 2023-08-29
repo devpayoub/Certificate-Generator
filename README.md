@@ -7,7 +7,7 @@
 
   <h2 align="center">Certificate Generator</h2>
 
-  Certificate Generator , <br /> A Online Application That Can Help You To Generator Udemy and Linkedin Generator .
+  Certificate Generator ,<br /> A Online Application That Can Help You To Generator Udemy and Linkedin Generator .
     <br /><a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
@@ -17,11 +17,11 @@
 ### ---Demo Screeshots
 ### Udemy Generated Certificate Sample
 
-![Taskbuddy Desktop Demo](./Images/ud.jpg "Desktop Demo")
-### ---------------------------------------------------
+![Desktop Demo](./img/ud.jpg "Desktop Demo")
+
 ### Udemy Generated Certificate Sample
 
-![Taskbuddy Desktop Demo](./Images/lid.jpg "Desktop Demo")
+![Desktop Demo](./img/lid.jpg "Desktop Demo")
 
 
 ### Run Locally
