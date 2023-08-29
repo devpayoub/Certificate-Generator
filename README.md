@@ -14,7 +14,7 @@
 
 <br />
 
-### ---Demo Screeshots
+## Demo Screeshots
 ### Udemy Generated Certificate Sample
 
 ![Desktop Demo](./img/ud.jpg "Desktop Demo")
